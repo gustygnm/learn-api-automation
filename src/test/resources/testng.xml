@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="API Automation Suite">
+    <test name="ReqresAPITests">
+        <classes>
+            <class name="tests.PositiveTests"/>
+            <class name="tests.NegativeTests"/>
+            <class name="tests.BoundaryTests"/>
+        </classes>
+    </test>
+</suite>
