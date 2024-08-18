@@ -57,3 +57,8 @@ test {
 ### Hasil Running Test:
 
 ![Image](https://github.com/gustygnm/learn-api-automation/blob/master/Screenshot%202024-08-18%20at%2022.06.12.png)
+
+
+### Report Generation - Allure Reporting:
+
+![Image](https://github.com/gustygnm/learn-api-automation/blob/master/Screenshot%202024-08-18%20at%2022.39.41.png)
